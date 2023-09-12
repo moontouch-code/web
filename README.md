@@ -1,4 +1,6 @@
-# mt
+# moontouch
+
+MoonTouch is a health & fitness app with fun games. players will lead their Fairies to explore the mysterious in the universe on the cyberpunk virtual planet.
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
